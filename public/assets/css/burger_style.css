@@ -58,8 +58,9 @@ li {
 	border-radius:10px;
 }
 
-button {
-	
+.btn-warning {
+	background:#e58200;
+	font-weight:bold;
 }
 
 
