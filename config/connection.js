@@ -12,7 +12,7 @@ if (process.env.JAWSDB_URL) {
     password: "Map-121790",
     database: "burger_db"
   });
-};
+  };
 
 
 // Make connection.
