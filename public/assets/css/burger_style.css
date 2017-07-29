@@ -1,6 +1,9 @@
-html, .container, header, body {
-	background: #D0D9DA;
+body {
+	background-image: url("../img/gplaypattern.png");
+	background-size:contain;
 }
+
+
 
 header {
 	text-align: center;
